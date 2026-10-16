@@ -239,4 +239,4 @@ This repository serves as the official landing page for Screen Capturer. The sof
 **Get the most recent version of Screen Capturer today!**
 
 ---
-**Last updated:** 2026-10-16 19:12:08 UTC
+**Last updated:** 2026-10-16 22:24:21 UTC
